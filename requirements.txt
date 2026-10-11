@@ -1,0 +1,4 @@
+# Requirements for Basic Personal Loan Eligibility Model
+# Built using Python Standard Library (csv, sys, os, unittest, typing)
+# No external package installations are required.
+# Compatible with Python 3.8+
